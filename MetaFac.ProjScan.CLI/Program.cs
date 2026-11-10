@@ -94,7 +94,11 @@ namespace ProjScan
                 new ItemSupportPeriod("net6", new DateTime(2021, 11, 10), new DateTime(2024, 11, 12)),
                 new ItemSupportPeriod("net7", new DateTime(2022, 11, 10), new DateTime(2024, 5, 14)),
                 new ItemSupportPeriod("net8", new DateTime(2023, 11, 10), new DateTime(2026, 11, 10)),
-                new ItemSupportPeriod("net9", new DateTime(2024, 11, 10), new DateTime(2026, 5, 14)),
+                new ItemSupportPeriod("net9", new DateTime(2024, 11, 10), new DateTime(2026, 11, 10)),
+                new ItemSupportPeriod("net10", new DateTime(2025, 11, 10), new DateTime(2028, 11, 14)),
+                new ItemSupportPeriod("net11", new DateTime(2026, 11, 10), new DateTime(2028, 11, 10)),
+                new ItemSupportPeriod("net12", new DateTime(2027, 11, 10), new DateTime(2030, 11, 14)),
+                new ItemSupportPeriod("net13", new DateTime(2028, 11, 10), new DateTime(2030, 11, 10)),
             };
 
             //------------------------------ scan --------------------------------------------------
