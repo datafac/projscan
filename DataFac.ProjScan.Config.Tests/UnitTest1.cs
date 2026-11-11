@@ -2,7 +2,7 @@ using Shouldly;
 using System.Text.Json;
 using Xunit;
 
-namespace MetaFac.ProjScan.Config.Tests
+namespace DataFac.ProjScan.Config.Tests
 {
     public class UnitTest1
     {

@@ -24,7 +24,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
-		<ProjectReference Include="..\MetaFac.ProjScan.Config\MetaFac.ProjScan.Config.csproj" />
+		<ProjectReference Include="..\DataFac.ProjScan.Config\DataFac.ProjScan.Config.csproj" />
 	</ItemGroup>
 
 </Project>

@@ -1,4 +1,4 @@
-﻿using MetaFac.ProjScan.Config;
+﻿using DataFac.ProjScan.Config;
 using Spectre.Console;
 using System;
 using System.Collections.Generic;

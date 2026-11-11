@@ -1,6 +1,5 @@
 ﻿{
+  "CompanyName":"DataFac",
   "ProductName": "ProjScan",
-  "ExemptionCodes": [
-    "targetframeworks_contains_net6"
-  ]
+  "ExemptionCodes": []
 }

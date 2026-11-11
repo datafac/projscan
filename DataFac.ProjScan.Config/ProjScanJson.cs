@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-namespace MetaFac.ProjScan.Config
+namespace DataFac.ProjScan.Config
 {
     public class ProjScanJson
     {
